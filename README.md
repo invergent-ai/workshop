@@ -2,11 +2,13 @@
 
 ## Prerequisites
 
+1. Creare VM in [Nebius cloud](https://console.nebius.com/)
+Folositi link-ul de invitatie din mail-ul primit.
 
-
-## Install Surogate
-
-
+3. Instalare [Surogate](https://surogate.ai).
+```shell
+curl -sSL https://surogate.ai/install.sh | bash
+```
 
 ## Supervised Fine-Tuning
 
