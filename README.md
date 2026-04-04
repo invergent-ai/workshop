@@ -36,6 +36,7 @@ surogate vf-eval markdown-table-qa -m "workshop/model/" -b http://localhost:8000
 Datasets: [https://huggingface.co/cetusian/datasets](https://huggingface.co/cetusian/datasets)
 
 ```shell
+nvidia-smi
 source .venv/bin/activate
 cd gpuX
 CUDA_VISIBLE_DEVICES=X surogate sft sft.yaml
