@@ -31,6 +31,8 @@ surogate vf-eval markdown-table-qa -m "workshop/model/" -b http://localhost:8000
 ```
 
 ## Supervised Fine-Tuning
+Datasets: [https://huggingface.co/cetusian/datasets](https://huggingface.co/cetusian/datasets)
+
 ```shell
 surogate sft sft.yaml
 ```
