@@ -1,7 +1,7 @@
 model: Qwen/Qwen3-0.6B
 output_dir: ./workshop/model
 
-num_epochs: 2
+max_steps: 200
 eval_steps: 50
 warmup_steps: 50
 
