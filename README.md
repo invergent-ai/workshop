@@ -27,7 +27,7 @@ curl -sSL https://surogate.ai/install.sh | bash
 
 Evaluare model antrenat:
 ```shell
-
+surogate vf-eval markdown-table-qa -m "workshop/model/" -b http://localhost:8000/v1 -n 50 --max-tokens 4096
 ```
 
 ## Supervised Fine-Tuning
