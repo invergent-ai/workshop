@@ -2,6 +2,8 @@
 
 ## Prerequisites
 
+Join [Discord](https://discord.gg/kdT3GfUd)
+
 1. Creare VM in [Nebius cloud](https://console.nebius.com/)
 Folositi link-ul de invitatie din mail-ul primit, dupa care se urmeaza pasii de mai jos:
 
