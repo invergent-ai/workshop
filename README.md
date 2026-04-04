@@ -37,7 +37,7 @@ Datasets: [https://huggingface.co/cetusian/datasets](https://huggingface.co/cetu
 
 ```shell
 source .venv/bin/activate
-cd gpux
+cd gpuX
 CUDA_VISIBLE_DEVICES=X surogate sft sft.yaml
 ```
 
