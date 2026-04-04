@@ -37,4 +37,8 @@ surogate sft sft.yaml
 
 
 ## Reinforcement Learning (GRPO)
-
+```shell
+surogte grpo-infer ./infer.yaml
+surogate grpo-orch ./orch.yaml
+surogate grpo-train ./train.yaml
+```
